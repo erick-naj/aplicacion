@@ -57,7 +57,7 @@ class _LoginState extends State<Login> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text("Aplicacion"),
+          title: Text("Registro"),
         ),
         body: _isLoading
             ? Center(
